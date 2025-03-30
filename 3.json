@@ -1,0 +1,234 @@
+{
+    "Customs Baggage Declaration Form": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Essential Health Insurance Scheme": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": false
+    },
+    "Yellow Fever Vaccination Requirements": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": false
+    },
+    "SG Arrival Card": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": false
+    },
+    "Dangerous Goods": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": false
+    },
+    "Ammunition": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Firearms": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Batteries": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": false
+    },
+    "Drones": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "e-Cigarettes": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": false
+    },
+    "Electronic Cigarette lighters": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": false
+    },
+    "Portable Electronic Devices": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Lithium Batteries": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": false
+    },
+    "Spare or Loose Batteries": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": false
+    },
+    "Smart Baggage": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Rideable Suitcases": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Lithium Metal Batteries": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Lithium Ion Batteries": {
+        "allowed_in_cabinet": true,
+        "allowed_in_checked_bag": true
+    },
+    "Dry Batteries": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": false
+    },
+    "Nickel Cadmium Batteries": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": false
+    },
+    "Alkaline Batteries": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": false
+    },
+    "Avalanche Rescue Backpack": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Non-Flammable Gas Cylinders": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Small Non-Flammable Gas Cartridges": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Hair Curlers": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Equipment With Compressed Gas": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Camping Stoves": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Fuel Cells": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": false
+    },
+    "Alcoholic_Beverages": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Liquids_Gels_Pastes_Aerosols": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": false
+    },
+    "Liquid_Nitrogen": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Oxygen_or_Air_Cylinders": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Radio-isotopic_Cardiac_Pacemakers": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Non-infectious_Specimens": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Thermometer": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Thermometer_or_Barometer": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": false
+    },
+    "Mobility_Aids": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Battery-Powered_Mobility_Aids": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Spare Lithium Ion Batteries": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": false
+    },
+    "Battery-Powered Mobility Aids": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Chemical Agent Monitoring Equipment": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Dry Ice": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Internal Combustion or Fuel Cell Engines": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Matches and Cigarette Lighters": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": false
+    },
+    "Non-Radioactive Medicinal and Toiletry Items": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Permeation Devices": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Security-Type Equipment": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": false
+    },
+    "Pyrotechnic material": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": false
+    },
+    "Lithium batteries": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Blunt instruments": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Explosives and incendiary substances devices": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": false
+    },
+    "Guns and firearms": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Electro shock weapons and disabling devices": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": false
+    },
+    "Sharp objects": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Workers tools": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Powder-like substances": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Mobility Device Batteries": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": false
+    },
+    "Passport": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    }
+}

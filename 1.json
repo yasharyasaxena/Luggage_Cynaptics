@@ -1,0 +1,410 @@
+{
+    "Alcohol": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Liquid, Aerosol and Gels (LAGs)": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Batteries": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": false
+    },
+    "Laptops": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Drones": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Battery-powered wheelchairs": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": false
+    },
+    "Spare lithium batteries": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": false
+    },
+    "Dry ice": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Wax": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Avalanche rescue backpack": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Gas cartridges": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Compressed gas cylinders": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Stun guns": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Ghee": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Pickle": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Camping stoves": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Radio isotopic cardiac pacemakers": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Cattle products": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Heat producing articles": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Coconut crushed (green tissue)": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Specimens, non-infectious packed with small quantities of flammable liquid": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Thermometer or barometer, mercury filled": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Thermometer, medical or clinical, which contains mercury": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": false
+    },
+    "Diabetes-related supplies/equipment": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Medication and special needs devices": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Nitroglycerine pills or spray for medical use": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Oxygen or air, gaseous cylinders": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Artificial skeleton bones": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Ropes/luggage chain": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Cello tape/measuring /masking tape": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Camera equipment/undeveloped film": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Cremation urns": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Cuticle cutters (nail cutters without knife), bottle openers": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Eyelash curlers (manual only)": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Nail clippers without knife": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Nail files": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Personal care or toiletries with aerosols": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Steel/metallic cutlery without a sharp edge": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Umbrellas-Foldable": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Umbrellas with sharp edges": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Walking canes": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Wooden staff by religious heads": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Camcorders": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Mobile phones": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Pagers": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Talcum powder": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Satellite phones and GPS devices": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Chemical Agent Monitoring Equipment": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Permeation devices": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Axes and hatchets": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Box cutters": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Cigar cutters": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Knives": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Meat cleaver": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Razor-type blades": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Scissors": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Sword and throwing stars": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Kirpan": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Umbrella": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Razor": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Tweezers": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Fishing rods": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Baseball bats": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Golf clubs": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Hockey sticks": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Lacrosse sticks": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Pool cues": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Ski poles": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Spear guns": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Footballs": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Basketballs": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Tennis balls": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Table tennis balls": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Badminton rackets": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Tennis rackets": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Squash rackets": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Corkscrews": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Crowbars": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Drills": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Glue gun": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Hammers": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Ice axes": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Knitting needles": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Saws": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Screwdrivers": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Wrenches": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Pliers": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Eyeglass repair tools": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Prosthetic device tools": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Realistic replicas of firearms": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Realistic replicas of reptiles": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Toy weapons": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Toy guns": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Toy transformer robots": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Black jacks": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Compressed air guns": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Firearms": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Kubatons": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Parts of guns": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Pellet guns": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Knuckles": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "MacBook Pro laptops": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    }
+}

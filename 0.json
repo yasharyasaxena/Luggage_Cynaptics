@@ -1,0 +1,326 @@
+{
+    "Silver ware crockery": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Wrist watches": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Hair dryer": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Honey": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Non-prescribed medicines": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Water bottle": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Mobile charger": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Laptop charger": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Aerated drinks": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Ashes": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Baby Stroller/pram": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Bicycle": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Biryani": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Blade": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Broadband routers/Telephone": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Cake": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Car seat": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Chopper Knife": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Cigarettes": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Coconut": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "CPU": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Desktop": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Driller machines": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Drone camera": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Dry foods": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Dry fruits": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "DSLR": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "E-cigarettes": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": false
+    },
+    "Fish/Meat": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Fruits/vegetables": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Gas stove/Grinder": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Ghee": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Glass items": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Gold/Silver Jewellery": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": false
+    },
+    "Golf Kit": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Groceries": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Gun": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Hammer": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Heater battery": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Heater electric": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Holy water/ganga jal": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Home appliances": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Human Remains": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": false
+    },
+    "Jewellery/Cash": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": false
+    },
+    "Kirpan": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Laptop": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Liquor": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Mechanical Tools": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Medical Equipment": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Medicines": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Metal items": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Monitor": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Multiple tabs, mobiles": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Musical Instruments": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Oily foods": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Oily items": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Painting brush": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Perfume/Deo": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Pets": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": false
+    },
+    "Photo frames": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Pickles": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Plants": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Power bank": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Raw Foods (Rice/Pulses)": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Raw Green vegetables": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Rod items": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Scissors": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Sharp items": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Shaving brush": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Sherwani/Suits": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Skeleton": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": false
+    },
+    "Statues/idols": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Steel heavy items": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Sweets": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Swords": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Trimmer with battery": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Trimmer without battery": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "TV": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": true
+    },
+    "Umbrella": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "UPS": {
+        "allowed_in_cabin": true,
+        "allowed_in_checked_bag": true
+    },
+    "Wheelchair (Self)": {
+        "allowed_in_cabin": false,
+        "allowed_in_checked_bag": false
+    }
+}
